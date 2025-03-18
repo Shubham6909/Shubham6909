@@ -1,7 +1,7 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Shubham Gupta</h1>
 
 <div align="center">
-  <img src ="./banner.png" />
+  <img src ="./profile1.png" />
 </div>
 
 <br/>
@@ -10,7 +10,7 @@
 
 <img src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🔭 Senior Java Developer at **Asian Exporters Chamber**
+- 🔭 Java Developer at **Asian Exporters Chamber**
 - 🌱 Full-stack specialist with expertise in **Spring Boot, AWS, Microservices, React.js, and Flutter**
 - 💡 Passionate about building **scalable, secure, and high-performance enterprise applications**
 - 🚀 Experienced in **cloud architecture, API development, and distributed systems**
@@ -24,14 +24,18 @@
 ## 💼 Work Experience
 
 ### Jtronix Technologies | Software Engineer
+
 **Navi Mumbai, Maharashtra | Mar 2023 - Apr 2024**
+
 - Developed and maintained web applications using **Spring Boot, Hibernate, and Microservices architecture**
 - Contributed to frontend development using **ReactJS**, ensuring a seamless user experience
 - Implemented **Docker** for application containerization, optimizing deployment workflows and improving system reliability
 - Participated in code reviews, debugging, and troubleshooting to enhance application performance and functionality
 
 ### Asian Exporters Chamber | Java Developer
+
 **Current Position**
+
 - Designing and implementing scalable backend systems using **Java and Spring Boot**
 - Building microservices architecture for improved system reliability and maintainability
 - Integrating AWS cloud services for deployment and infrastructure management
@@ -42,6 +46,7 @@
 ## 🛠️ Technical Expertise
 
 ### Backend Development
+
 <p>
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="25px"/>
 <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="25px"/>
@@ -50,6 +55,7 @@
 </p>
 
 ### Frontend Development
+
 <p>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
 <img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
@@ -58,6 +64,7 @@
 </p>
 
 ### Database & Cloud
+
 <p>
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" height="25px"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25px"/>
@@ -66,6 +73,7 @@
 </p>
 
 ### Tools & Frameworks
+
 <p>
 <img alt="redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" height="25px"/>
 <img alt="Express" src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white" height="25px"/>
@@ -77,22 +85,25 @@
 
 ---
 
-## 🚀 Featured Projects
+<!-- ## 🚀 Featured Projects
 
 ### Enterprise Microservices Platform
+
 - Built a scalable microservices architecture using Spring Boot and AWS
 - Implemented service discovery, circuit breakers, and centralized configuration
 - Reduced deployment time by 70% and improved system reliability
 
 ### E-Commerce Mobile Application
+
 - Developed a cross-platform application using Flutter and Firebase
 - Implemented secure payment integration and real-time inventory tracking
-- Achieved 4.8/5 user rating with 10,000+ downloads
+<!-- - Achieved 4.8/5 user rating with 10,000+ downloads -->
 
-### Secure API Gateway
-- Designed and implemented an API Gateway using Spring Cloud Gateway
+<!-- ### Secure API Gateway -->
+
+<!-- - Designed and implemented an API Gateway using Spring Cloud Gateway
 - Added JWT authentication, rate limiting, and request validation
-- Deployed on AWS with auto-scaling capabilities
+- Deployed on AWS with auto-scaling capabilities -->
 
 ---
 
